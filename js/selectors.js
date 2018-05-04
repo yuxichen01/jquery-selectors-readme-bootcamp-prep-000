@@ -2,3 +2,6 @@
 function paragraphSelector() {
   return $('p');
 }
+function lastImageSelecto() { 
+  
+}
